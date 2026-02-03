@@ -24,19 +24,28 @@ body {
 }
 
 .links {
-    margin-top: 12px;
+    margin-top: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
 
 .links a {
     color: #38bdf8;
     text-decoration: none;
     font-weight: 500;
+    font-size: 0.95rem;
+}
+
+.links a:hover {
+    text-decoration: underline;
 }
 
 .links span {
-    margin: 0 8px;
     color: #94a3b8;
 }
+
 
 .phone {
     margin-top: 10px;
