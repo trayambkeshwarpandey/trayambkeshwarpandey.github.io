@@ -1,4 +1,3 @@
-# trayambkeshwarpandey.github.io
 # Trayambkeshwar Pandey  
 ### MCA Graduate | Full-Stack Developer  
 
@@ -9,7 +8,7 @@ This repository hosts my **personal portfolio website** built using GitHub Pages
 
 ## 🚀 About Me
 I am an MCA graduate with strong hands-on experience in **full-stack web development**, **cloud computing**, and **database management**.  
-I enjoy building **scalable, secure, and user-focused applications** using modern technologies.
+I build scalable, secure, and user-focused applications using **Java, React, Node.js, Python, and MySQL**.
 
 ---
 
@@ -25,19 +24,14 @@ I enjoy building **scalable, secure, and user-focused applications** using moder
 ## 📂 Projects
 ### 🔹 On-Tap – Online Service Booking Platform  
 **Tech Stack:** React, Node.js, MySQL, HTML, CSS  
-- Enables users to book verified household services in real time  
-- Includes admin verification, secure payments, and AI chatbot support  
 
 ### 🔹 Student Grade Management System  
 **Tech Stack:** HTML, CSS, JavaScript, Python  
-- Automates grade calculation and result management  
-- Provides real-time analytics for students and faculty  
 
 ---
 
 ## 🌐 Live Portfolio
-👉 **Visit here:**  
-https://trayambkeshwarpandey.github.io
+👉 https://trayambkeshwarpandey.github.io
 
 ---
 
@@ -49,3 +43,4 @@ https://trayambkeshwarpandey.github.io
 
 ## 📄 License
 This project is licensed under the **MIT License**.
+
