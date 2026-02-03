@@ -1,49 +1,98 @@
-body {
+* {
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #f4f6f8;
-    color: #333;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
 }
 
+body {
+    background-color: #f8f9fb;
+    color: #2c2c2c;
+    line-height: 1.6;
+}
+
+/* Header */
 header {
-    background-color: #1f2937;
+    background-color: #0a192f;
     color: #ffffff;
-    padding: 30px 20px;
     text-align: center;
+    padding: 40px 20px;
 }
 
-header a {
-    color: #38bdf8;
-    margin: 0 10px;
+header h1 {
+    font-size: 2.4rem;
+    margin-bottom: 8px;
+}
+
+.tagline {
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+.contact {
+    margin-top: 10px;
+}
+
+.contact a {
+    color: #64ffda;
     text-decoration: none;
-    font-weight: bold;
+    margin: 0 6px;
+    font-weight: 500;
+}
+
+.phone {
+    margin-top: 8px;
+    font-size: 0.95rem;
+}
+
+/* Main */
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 20px;
 }
 
 section {
+    margin-bottom: 40px;
+}
+
+section h2 {
+    color: #0a192f;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #64ffda;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+/* Cards */
+.card {
     background: #ffffff;
-    max-width: 900px;
-    margin: 20px auto;
-    padding: 25px;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    padding: 18px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
 
-h2 {
-    border-bottom: 2px solid #e5e7eb;
-    padding-bottom: 8px;
+.card h3 {
+    color: #0a192f;
+    margin-bottom: 5px;
 }
 
-h3 {
-    color: #2563eb;
-}
-
+/* Lists */
 ul {
-    padding-left: 20px;
+    margin-left: 20px;
 }
 
+.skills li {
+    margin-bottom: 6px;
+}
+
+/* Footer */
 footer {
     text-align: center;
     padding: 15px;
-    background: #e5e7eb;
-    margin-top: 30px;
+    background-color: #0a192f;
+    color: #ffffff;
+    font-size: 0.9rem;
 }
+
